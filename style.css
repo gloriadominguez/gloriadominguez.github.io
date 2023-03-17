@@ -36,6 +36,12 @@ h1 {
 }
 
 .seccion-titulo {
+  color:#4b131d;
+  font-size: 2rem;
+  padding: 15px 0;
+  font-family: 'Rubik Dirt', cursive;
+}
+.seccion-title {
   color:#f1a779;
   font-size: 2rem;
   padding: 15px 0;
