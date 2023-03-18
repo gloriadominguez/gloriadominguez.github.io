@@ -22,12 +22,12 @@ section {
 h1 {
   font-size: 2.5rem;
   font-family: 'Rubik Dirt', cursive;
-  color:#4b131d;
+  color:#000000;
 }
 
 .seccion-oscura {
   color: white;
-  background-color: #4b131d;
+  background-color: #000000;
 }
 
 .seccion-clara {
@@ -36,13 +36,13 @@ h1 {
 }
 
 .seccion-titulo {
-  color:#4b131d;
+  color:#000000;
   font-size: 2rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
 }
 .seccion-title {
-  color:#f1a779;
+  color:#7d93fc;
   font-size: 2rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
@@ -60,15 +60,15 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #4b131d;
-  border: #86383e;
-  color: #f1a779;
+  background-color: #000000;
+  border: #1a2547;
+  color: #7d93fc;
 }
 .btn-info:hover {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #86383e;
-  border: #4b131d;
+  background-color: #1a2547;
+  border: #000000;
   color: white;
 }
 .texto-negro {
@@ -93,7 +93,7 @@ h1 {
 
 .hero-imagen-desarrollador {
   width: 210px;
-  height: 200px;
+  height: 210px;
   margin: 20px;
 }
 
@@ -132,13 +132,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #4b131d;
+  background-color: #000000;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #86383e;
-  background-color: #f1a779;
+  color: #1a2547;
+  background-color: #7d93fc;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -157,8 +157,8 @@ h1 {
 
 .badge {
   margin: 5px;
-  background-color: #b85351;
-  border: #b85351;
+  background-color: #47589c;
+  border: #1a2547;
 }
 
 /* Proyectos */
@@ -195,7 +195,7 @@ h1 {
   font-size: 25px;
   font-weight: bold;
   margin-bottom: 0;
-  color: #4b131d;
+  color: #000000;
 }
 
 .proyecto {
@@ -215,7 +215,7 @@ h1 {
 }
 
 .overlay i {
-  color: #b85351;
+  color: #47589c;
   font-size: 60px;
   margin: 10px;
 }
@@ -301,7 +301,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: #f1a779;
+  background-color: #7d93fc;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -313,15 +313,15 @@ h1 {
 }
 
 .contacto .descripcion {
-  color: #4b131d;
+  color: #000000;
   font-size: 1.2rem;
 }
 
 .contacto button {
-  color: #4b131d;
+  color: #000000;
   font-weight: bold;
   background-color: transparent;
-  border: 2px solid #4b131d;
+  border: 2px solid #000000;
   padding: 1.25em 2em;
   margin: 10px;
   border-radius: 100px;
@@ -329,12 +329,12 @@ h1 {
 }
 
 .contacto button:hover {
-  background-color: #4b131d;
+  background-color: #000000;
   color: black;
 }
 
 .contacto button i {
-  color: #4b131d;
+  color: #000000;
   font-size: 1.3rem;
   transition: all 0.2s ease-in-out;
 }
